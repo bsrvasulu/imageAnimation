@@ -7,7 +7,7 @@ Style sheet setting to animate image on hover
       .IMAN {
          transform: scale(.6);
       }
-      .ICOK:hover> {
+      .IMAN:hover> {
          transform: scale(0.85);
       }
  
